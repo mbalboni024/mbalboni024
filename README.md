@@ -1,6 +1,6 @@
 # Hi, I'm Mia 👋
 
-Data Science & Mathematics @ Northeastern University** · Class of 2028
+Data Science & Mathematics @ Northeastern University · Class of 2028
 Currently a AI Engineering Intern @ Aquent
 
 I build things at the intersection of quantitative modeling and applied AI — forecasting models, agentic systems, and the data pipelines that keep them fed.
